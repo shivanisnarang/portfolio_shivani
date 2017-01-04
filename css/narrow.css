@@ -1,0 +1,14 @@
+@media screen and (max-width: 600px)  {
+	.first {
+         text-align: center;
+	}
+	
+	article {
+	     margin-bottom: 50px;
+	}
+	
+	header {
+	    margin-top: -10px;
+	}
+	
+}
