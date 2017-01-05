@@ -35,19 +35,19 @@ img {
 }
 
 .svg-icon {
-  width: 8vw;
-  height: 8vw;
-  margin-top: 30px;
+       width: 8vw;
+       height: 8vw;
+       margin-top: 30px;
 }
 
 .svg-icon path,
 .svg-icon polygon,
 .svg-icon rect {
-  fill: #4691f6;
+      fill: #4691f6;
 }
 
 .svg-icon circle {
   stroke: #4691f6;
-  stroke-width: 1;
+      stroke-width: 1%;
 }
 
